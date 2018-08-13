@@ -27,4 +27,6 @@ one, but possibly more than one, form for each concept to be elicited.
 |---------|--------|---------|-------|
 |‘to do’  | tuːn   | duː     | duːn   |
  
+## Taboo-induced individual sound change (?)
 
+Chinese "niǎo" < "diǎo" (and "diǎo" also means "penis"). 
