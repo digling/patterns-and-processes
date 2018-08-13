@@ -29,4 +29,4 @@ one, but possibly more than one, form for each concept to be elicited.
  
 ## Taboo-induced individual sound change (?)
 
-Chinese "niǎo" < "diǎo" (and "diǎo" also means "penis"). 
+Chinese «bird» is now "niǎo" < "diǎo" (and "diǎo" also means "penis"). 
