@@ -10,6 +10,7 @@ one, but possibly more than one, form for each concept to be elicited.
 | Parallel semantic shift | Linguistic universals |  |
 | Analogy | Within-Language |  |
 | Contamination (a type of Analogy) | Within-Language |  |
+| Semantic shift | Within-Language |  |
 | Synonyms | Within-Language |  |
 | Chance similarities | Random |  |
 | Morphological processes | Common descent |  |
