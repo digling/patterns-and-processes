@@ -30,3 +30,7 @@ one, but possibly more than one, form for each concept to be elicited.
 ## Taboo-induced individual sound change (?)
 
 Chinese «bird» is now "niǎo" < "diǎo" (and "diǎo" also means "penis"). 
+
+## Cases of "contamination" (some kind of analogy?)
+
+Think of "left" vs. "right", and "rechts" vs. "links": the English words end in -t and the German words in -s. This may be the practice of naming opposition pairs often together, so they get more similar on the one hand, but need to be kept distinct on the other hand.
