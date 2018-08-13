@@ -1,2 +1,3 @@
 # patterns-and-processes
-Discussion in the working group of the lorentz workshop
+Patterns and Processes of tree-like and non-tree-like processes in phylogenetics.
+Collected in the Lorentz workshop “Distinguishability in Genealogical Phylogenetic Networks”, August 2018.
